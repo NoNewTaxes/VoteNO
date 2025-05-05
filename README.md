@@ -135,7 +135,6 @@
 <ul>
   <li><a href="https://education.ohio.gov/Topics/Data/Frequently-Requested-Data/Enrollment-Data">Ohio Department of Education Enrollment Data</a></li>
   <li><a href="https://www.bgohio.org/208/Income-Tax-Division">Bowling Green Income Tax Division</a></li>
-  <li><a href="https://bgindependentmedia.org/bg-schools-shake-off-edchoice-label-that-led-to-loss-of-students-and-funding/">BG Independent Media on EdChoice Impact</a></li>
   <li><a href="https://www.bgcs.k12.oh.us/district/superintendent/2025-operating-levy">Bowling Green City Schools 2025 Operating Levy</a></li>
 </ul>
 
